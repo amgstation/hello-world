@@ -1,2 +1,4 @@
 # hello-world
-github first test
+
+I just started github for my project. 
+amgstation@naver.com
